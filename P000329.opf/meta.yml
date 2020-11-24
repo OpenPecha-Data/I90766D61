@@ -3,5 +3,30 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W2DB25450
   title: ཨ་གློསསརཡ་ཨོཕ༹་ཐེ་ཏྲིབེས་ཨནད་ཅསྟེས་ཨོཕ༹་ཐེ་པུནཇབ་ཨནད་ནོརཐ-ཝེསཏ་ཕ༹ྲོནཏིཨེར་པྲོབི༹ནཅེ་
-  volume: ''
+  volume:
+    78bcc60463e34a6886aac858a527a6c5:
+      image_group_id: I1PD36343
+      title: Volume 1 of a glossary of the tribes and castes of the punjab and north-west
+        frontier province
+      volume_number: 1
+      total_pages: 582
+    737ecef27eec4084bafa7d539aa6906f:
+      image_group_id: I1PD36344
+      title: Volume 2 of a glossary of the tribes and castes of the punjab and north-west
+        frontier province
+      volume_number: 2
+      total_pages: 542
+    1bde0b7afed745668e095064fe3826c6:
+      image_group_id: I1PD36345
+      title: Volume 3 of a glossary of the tribes and castes of the punjab and north-west
+        frontier province
+      volume_number: 3
+      total_pages: 0
   author: ''
+ebook_metadata:
+  title: ཨ་གློསསརཡ་ཨོཕ༹་ཐེ་ཏྲིབེས་ཨནད་ཅསྟེས་ཨོཕ༹་ཐེ་པུནཇབ་ཨནད་ནོརཐ-ཝེསཏ་ཕ༹ྲོནཏིཨེར་པྲོབི༹ནཅེ་
+  author: ''
+  sku: P000329
+  cover: cover.jpg
+  layers:
+  - pagination
