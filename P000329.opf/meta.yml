@@ -1,5 +1,7 @@
 id: P000329
 initial_creation_type: ocr
+created_at: 12/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W2DB25450
   title: ཨ་གློསསརཡ་ཨོཕ༹་ཐེ་ཏྲིབེས་ཨནད་ཅསྟེས་ཨོཕ༹་ཐེ་པུནཇབ་ཨནད་ནོརཐ-ཝེསཏ་ཕ༹ྲོནཏིཨེར་པྲོབི༹ནཅེ་
@@ -25,10 +27,3 @@ source_metadata:
         frontier province
       volume_number: 3
       total_pages: 0
-ebook_metadata:
-  title: ཨ་གློསསརཡ་ཨོཕ༹་ཐེ་ཏྲིབེས་ཨནད་ཅསྟེས་ཨོཕ༹་ཐེ་པུནཇབ་ཨནད་ནོརཐ-ཝེསཏ་ཕ༹ྲོནཏིཨེར་པྲོབི༹ནཅེ་
-  author: ''
-  sku: P000329
-  cover: cover.jpg
-  layers:
-  - pagination
